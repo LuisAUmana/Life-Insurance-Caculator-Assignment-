@@ -1,5 +1,5 @@
 # Life-Insurance-Caculator-Assignment-
-Assignment provided in ECGR 2103
+Assignment provided in Computer Utilization in C++ (ECGR 2103)
 
 You are creating a program for a huge life insurance company. Yearly payments are determined by the amount of coverage offered, the age of the customer, and by whether the customer has a pre-existing sickly condition. Payments are calculated as follows:
 
